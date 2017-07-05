@@ -4,8 +4,8 @@ The implementation of the Compare Technology comparison widget is nothing more t
 
 ## Sample code
 
-*HTML*
-`<div class="comparetechnology-widget-uk" data-id="[YOUR_UNIQUE_ID]"></div>
+**HTML**
+`<div class="comparetechnology-widget-uk" data-id="[YOUR_UNIQUE_ID]"></div>`
 
-*Javascript*
-`<script type="text/javascript" src="https://assets.comparetechnology.co.uk/widget.js" async></script>
+**Javascript**
+`<script type="text/javascript" src="https://assets.comparetechnology.co.uk/widget.js" async></script>`
